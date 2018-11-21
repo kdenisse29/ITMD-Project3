@@ -132,6 +132,7 @@ p {
   width: 50%;
   font-style: cursive;
   background-color:grey;
+  position: center;
 }
 /* my interests page only*/
 .img2{
