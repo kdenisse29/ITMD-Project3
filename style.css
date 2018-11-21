@@ -61,9 +61,12 @@ a{
 .two{
 	font-weight: bold;
 }
-#main{
-	padding-top: 30px;
-	padding-bottom: 30px;
+#inp{
+	padding-top: 10px;
+	padding-bottom:10px;
+  text-align: left;
+  padding-right: 25px;
+  padding-left: 15px;
 
 }
 #footer{
