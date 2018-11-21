@@ -94,7 +94,6 @@ p {
 #navmain {
   background-color:#C6CBD2;
   height:50px;
-  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
@@ -128,8 +127,10 @@ p {
     border-radius: 8px;
  }
  #map{
+  padding-top: 10px;
+  padding-bottom: 20px;
   height: 400px;
-  width: 50%;
+  width: 100%;
   font-style: cursive;
   background-color:grey;
   position: center;
