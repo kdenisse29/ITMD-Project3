@@ -192,7 +192,7 @@ ul{
   font-size:20px;
   line-height:2.0em;
 }
-#ul2{
+.ul2{
   list-style-type: none;
   padding-bottom: 10px;
   font-size: 17px;
