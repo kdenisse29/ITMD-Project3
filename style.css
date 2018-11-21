@@ -156,6 +156,11 @@ p {
   border: 5px solid pink; 
   border-radius : 20px; 
 }
+ul{
+  list-style-type: none;
+  padding-bottom: 10px;
+  font-size: 17px;
+  text-align: center;
 /* resume page */
 #header2 {
 	background-color:#7E8692;
