@@ -128,9 +128,9 @@ p {
     border-radius: 8px;
  }
  #map{
-  height: 500px;
+  height: 400px;
   width: 100%;
-  font-family: cursive;
+  background-color:grey;
 }
 /* my interests page only*/
 .img2{
