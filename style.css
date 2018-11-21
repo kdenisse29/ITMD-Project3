@@ -68,7 +68,7 @@ a{
 }
 #footer{
 	clear: both;
-	padding:10px;
+	padding-top: 20px;
 	background-color: #999999;
 	text-align: right;
 }
@@ -121,13 +121,14 @@ p {
     height: 50%;
     width:50%;
     padding-top: 30px;
+    padding-bottom: 25px;
     margin-left: auto;
     margin-right: auto;
     display: block;
     border-radius: 8px;
  }
  #map{
-  padding-top: 10px;
+  padding-top: 20px;
   padding-bottom: 20px;
   height: 400px;
   width: 100%;
