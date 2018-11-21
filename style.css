@@ -129,7 +129,7 @@ p {
  }
  #map{
   height: 100px;
-  width: 50%;
+  width: 100%;
   font-style: cursive;
   background-color:grey;
 }
