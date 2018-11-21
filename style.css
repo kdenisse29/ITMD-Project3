@@ -128,8 +128,9 @@ p {
     border-radius: 8px;
  }
  #map{
-  height: 400px;
-  width: 100%;
+  height: 100px;
+  width: 50%;
+  font-style: cursive;
   background-color:grey;
 }
 /* my interests page only*/
