@@ -71,7 +71,7 @@ a{
 }
 #footer{
 	clear: both;
-	padding-top: 20px;
+	padding-top: 10px;
 	background-color: #999999;
 	text-align: right;
 }
@@ -153,6 +153,7 @@ p {
   width: 1010px;
   margin:auto;
   padding: 10px;
+  padding-bottom: 5px;
   border: 5px solid pink; 
   border-radius : 20px; 
 }
@@ -161,6 +162,7 @@ ul{
   padding-bottom: 10px;
   font-size: 17px;
   text-align: center;
+}
 /* resume page */
 #header2 {
 	background-color:#7E8692;
